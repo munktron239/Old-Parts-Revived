@@ -54,10 +54,10 @@ There are also some additional versions found from https://archive.org/details/k
 
 The Alpha versions included are:
 
-0.7.3
-0.12
-0.15.2
-0.17.1
+- 0.7.3
+- 0.12
+- 0.15.2
+- 0.17.1
 
 I'm *pretty* sure these versions are all legally "free", so distributing the parts assets won't be breaking (too) many laws...
 
@@ -68,13 +68,13 @@ Then, enter one of the number strings found at https://steamdb.info/depot/220201
 
 The Steam Depot versions included are:
 
-0.20.2
-0.21.1	
-0.24.2
-0.25
-0.90
-1.0.2
-1.0.4
+- 0.20.2
+- 0.21.1	
+- 0.24.2
+- 0.25
+- 0.90
+- 1.0.2
+- 1.0.4
 
 ============================================================================================
 
@@ -82,18 +82,18 @@ Lastly, the following full-release versions are officially available from Steam 
 
 The Full-Release versions included are:
 
-1.0.5
-1.1.3
-1.3.1
-1.4.5
-1.5.1
-1.6.1
-1.7.3
-1.8.1
-1.9.1
-1.10.1
-1.11.2
-1.12.1
+- 1.0.5
+- 1.1.3
+- 1.3.1
+- 1.4.5
+- 1.5.1
+- 1.6.1
+- 1.7.3
+- 1.8.1
+- 1.9.1
+- 1.10.1
+- 1.11.2
+- 1.12.1
 
 If you don't see a version, then it's because there were no parts revamped in the version *following* it.
 For example, no parts were revamped in KSP 1.3 "Away with words", so there's no need to include any parts from update 1.2 "Loud and clear"
@@ -130,17 +130,17 @@ This helps reduce the size of the mod a little compared to Redux, while also red
 If you didn't know, in KSP 1.12.5, there are 11 hidden deprecated parts which you can find in the Advanced view mode in the VAB.
 This mod un-hides them and updates their names to let you know that they are now 'Classic' parts. The full part list is:
 
-HighGainAntenna5	= HG-5 Antenna
-liquidEngine		= Reliant
-liquidEngine2		= Swivel
-mk2LanderCabin		= Mk2 Lander Can
-probeCoreHex		= HECS
-rocketNoseCone_v2	= Nose Cone Mk7
-roverBody		= RoveMate
-Size2LFB		= Twin-Boar
-smallRadialEngine	= Twitch
-spotLight1		= Illuminator Mk1
-spotlight2		= Illuminator Mk2
+- HighGainAntenna5	= HG-5 Antenna
+- liquidEngine		= Reliant
+- liquidEngine2		= Swivel
+- mk2LanderCabin		= Mk2 Lander Can
+- probeCoreHex		= HECS
+- rocketNoseCone_v2	= Nose Cone Mk7
+- roverBody		= RoveMate
+- Size2LFB		= Twin-Boar
+- smallRadialEngine	= Twitch
+- spotLight1		= Illuminator Mk1
+- spotlight2		= Illuminator Mk2
 
 To differentiate these parts from parts that are added by Revived, they have '(Stock)' in their titles.
 

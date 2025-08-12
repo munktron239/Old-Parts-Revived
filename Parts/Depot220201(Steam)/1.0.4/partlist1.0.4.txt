@@ -1,0 +1,21 @@
+Parts from 1.0.4
+
+airIntakeRadialXM-G50
+engineNacelle
+jetEngineBasic
+jetEngineTurbo
+liquidEngineAerospike
+liquidEngineMk55
+mk1Cockpit
+mk1Fuselage
+mk1Structural
+mk1FuselageIntake
+smallHardpoint
+structuralPylon
+
+(Copied from KSP 1.0.4 via Steam Depot 220200 download)
+
+======================================================================================================
+
+The great PorkJet revamp is upon us.
+Don't be sad - these parts spirits live on even to this day, almost a decade later.

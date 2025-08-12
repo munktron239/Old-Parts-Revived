@@ -1,7 +1,7 @@
 {
     "NAME": "OldPartsRevived",
     "URL": "https://raw.githubusercontent.com/munktron239/Old-Parts-Revived/refs/heads/main/Versioning/OldPartsRevived.version",
-    "DOWNLOAD": "https://spacedock.info/mod/",
+    "DOWNLOAD": "https://spacedock.info/mod/3960/Old%20Parts%20Revived",
     "VERSION": {
         "MAJOR": 1,
         "MINOR": 0,
@@ -25,3 +25,4 @@
     }
 
 }
+

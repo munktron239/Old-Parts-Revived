@@ -1,0 +1,5 @@
+Parts from 1.0.2
+
+mk1InlineCockpit
+
+(Copied from KSP 1.0.2 via Steam Depot 220200 download)

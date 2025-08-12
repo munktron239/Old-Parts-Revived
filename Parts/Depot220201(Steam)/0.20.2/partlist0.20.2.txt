@@ -1,0 +1,5 @@
+Parts from 0.20.2
+
+winglet
+
+(Copied from KSP 0.20.2 via Steam Depot 220200 download)

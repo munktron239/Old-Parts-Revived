@@ -1,0 +1,6 @@
+Parts from 0.21.1
+
+avionicsNoseCone
+LandingLeg
+
+(Copied from KSP 0.21.1 via Steam Depot 220200 download)

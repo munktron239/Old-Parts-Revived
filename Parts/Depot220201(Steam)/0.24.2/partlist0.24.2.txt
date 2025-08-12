@@ -1,0 +1,22 @@
+Parts from 0.24.2
+
+Ailerons
+deltaWing
+Mark1Cockpit
+MK1Fuselage
+MK1FuselageStructural
+mk2Fuselage
+mk2SpacePlaneAdapter
+omsEngine
+sasModule
+Size3AdvancedEngine
+smallCtrlSrf
+structuralWing
+wingConnector
+
+(Copied from KSP 0.24.2 via Steam Depot 220200 download)
+
+======================================================================================================
+
+SpacePlanes Plus arrives, and PorkJet prepares for his ultimate revamp.
+It is still a ways away, though. Enjoy what you can while it lasts.

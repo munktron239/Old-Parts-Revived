@@ -1,0 +1,32 @@
+Parts from 1.5.1
+
+adapterLargeSmallBi
+adapterLargeSmallTri
+adapterLargeSmallQuad
+adapterSmallMiniShort
+adapterSmallMiniTall
+noseCone
+pointyNoseConeA
+pointyNoseConeB
+standardNoseCone
+largeAdapter
+largeAdapter2
+liquidEngineMini
+liquidEngine3
+liquidEngine2-2
+rocketNoseCone
+Size3to2Adapter
+stackBiCoupler
+stackTriCoupler
+stackQuadCoupler
+
+(Copied from Squad/zDeprecated/Parts)
+
+mk2LanderCabin
+
+(Already exist in-game, so they are un-hidden by this mod instead of adding their models)
+
+======================================================================================================
+
+The beginning of the end for many of the beloved classic engines.
+New models please the eye, but perhaps some charm was lost along the beaten path?

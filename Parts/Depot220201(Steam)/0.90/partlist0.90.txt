@@ -1,0 +1,22 @@
+Parts from 0.90
+
+advancedCanard
+avionicsNoseCone
+CircularIntake
+engineBodyRadial
+engineNacelle
+mk1InlineCockpit
+noseConeAdapter
+ramAirIntake
+standardCanard
+standardNoseCone
+sweptWing
+tailConnector
+tailfin
+
+(Copied from KSP 0.90 via Steam Depot 220200 download)
+
+======================================================================================================
+
+And so, KSP leaves the Beta era behind.
+But don't stop to rest yet - we're not even at the halfway mark yet.

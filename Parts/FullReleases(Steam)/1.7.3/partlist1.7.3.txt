@@ -1,0 +1,13 @@
+Parts from 1.7.3
+
+ServiceBay_125
+ServiceBay_250
+
+(Copied from Squad/zDeprecated/Parts)
+
+rocketNoseCone_v2
+Size3SmallTank
+Size3MediumTank
+Size3LargeTank
+
+(Copied from official 1.7.3 version via Steam)

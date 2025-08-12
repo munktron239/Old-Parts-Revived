@@ -1,0 +1,10 @@
+Parts from 1.8.1
+
+liquidEngine1-2
+engineLargeSkipper
+
+(Copied from Squad/zDeprecated/Parts)
+
+solidBooster1-1
+
+(Copied from official 1.8.1 version via Steam)

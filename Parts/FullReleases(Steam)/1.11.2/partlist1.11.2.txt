@@ -1,0 +1,17 @@
+Parts from 1.11.2
+
+dockingPort1
+dockingPort2
+dockingPort3
+dockingPortLateral
+dockingPortLarge
+mk2DockingPort
+
+(Copied from Squad/zDeprecated/Parts)
+
+======================================================================================================
+
+The last rest stop before The End.
+A great pandemic falls upon the land, perhaps is can be attributed to the end of this odyssey...
+
+Never the matter. No use in finding scapegoats. Let's finish this adventure together, shall we?

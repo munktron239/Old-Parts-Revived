@@ -1,0 +1,19 @@
+Parts from 1.9.1
+
+externalTankCapusle
+externalTankRound
+externalTankToroid
+GrapplingDevice
+
+(Copied from Squad/zDeprecated/Parts)
+
+fuelLine
+MassiveBooster
+strutConnector
+
+(Copied from official 1.9.1 version via Steam)
+
+======================================================================================================
+
+The last of the Great Collaborations.
+Not every game can claim to have collapsed with no less than 3 real-life agencies.

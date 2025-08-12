@@ -1,0 +1,17 @@
+Parts from 1.12.1
+
+liquidEngine
+liquidEngine2
+
+(Already exist in-game, so they are un-hidden by this mod instead of adding their models)
+
+======================================================================================================
+
+And here we are. So the journey ends, as this decade-spanning adventure fades into the sunset...
+
+But yet, the story did not end here. Against all odds, against the greed and disaster of Take-Two, KSP endured.
+I'll see you all in Kitten Space Agency. Look me up when you arrive, I'll buy you a drink.
+
+There are many great things yet to come.
+
+(To read from the start, head back to the beginning... during one summer in 2011, 0.7.3)

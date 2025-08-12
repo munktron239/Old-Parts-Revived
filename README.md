@@ -33,8 +33,8 @@ Many parts added are directly copied from Squad/zDeprecated. These parts are inc
 This mod adds them back in with updated tiles to let you know which version they were from/replaced in.
 
 Any parts added are kept as true as possible to their original stats. Exceptions are on extremely old parts that have no MODULES.
-First: A disclaimer on which parts will be included. If a part has a *stats* change, but not a *model* change, then it will _NOT_* be included.
 
+First: A disclaimer on which parts will be included. If a part has a *stats* change, but not a *model* change, then it will _NOT_* be included.
 This is to keep part count to a minimum and ensure each added part is unique. (I also *really* don't want to have to add in multiple copies of the exact same part.)
 This is the major difference between Revived and Redux/KHI: I only count model updates as an 'Old Part' that needs to be revived.
 

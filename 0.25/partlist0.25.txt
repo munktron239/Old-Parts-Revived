@@ -1,0 +1,12 @@
+Parts from 0.25
+
+mk2mk3Adapter
+mk3Cockpit
+mk3Fuselage
+
+(Copied from KSP 0.25 via Steam Depot 220200 download)
+
+======================================================================================================
+
+Good riddance, old Mk3 parts.
+Alas, ye all sucked.

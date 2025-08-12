@@ -1,0 +1,21 @@
+Parts from 0.17.1
+
+advSasModule
+fuelTank1-1
+fuelTank2-2
+fuelTank
+fuelTankSmall
+liquidEngine1
+liquidEngine2
+liquidEngine3
+RCSblock
+RCSFuelTank
+sasModule
+solidBooster
+stackTriCoupler
+
+(Copied from KSP 0.17 via the Kerbal Alpha Archive)
+
+======================================================================================================
+
+The first of the part-revamping focused updates. Expect many more to come.

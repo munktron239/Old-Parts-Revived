@@ -1,0 +1,26 @@
+Parts from 1.4.5
+
+HECS2_ProbeCore
+fuelTankSmallFlat
+fuelTankSmall
+fuelTank
+fuelTank_long
+mk1pod
+probeCoreCube
+probeCoreOcto
+probeCoreOcto2
+probeCoreSphere
+solidBooster_sm
+solidBooster
+
+(Copied from Squad/zDeprecated/Parts)
+
+probeCoreHex
+roverBody
+
+(Already exist in-game, so they are un-hidden by this mod instead of adding their models)
+
+======================================================================================================
+
+Making History debuts, and the KSP future is looking bright.
+I personally am quite fond of this era. This is where I began.

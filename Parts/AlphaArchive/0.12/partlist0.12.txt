@@ -1,0 +1,5 @@
+Parts from 0.12
+
+fuelTank
+
+(Copied from KSP 0.12 via the Kerbal Alpha Archive)

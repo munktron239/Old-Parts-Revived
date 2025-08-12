@@ -1,0 +1,7 @@
+Parts from 0.15.2
+
+fuelTank
+fuelTankSmall
+mk1pod
+
+(Copied from KSP 0.15.2 via the Kerbal Alpha Archive)

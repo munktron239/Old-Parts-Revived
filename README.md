@@ -11,13 +11,13 @@ See a parts history from Alpha to Beta to 1.0 and beyond.
 Relive that sweet, sweet nostalgia. Jump back to 2018, 2015, or even earlier.
 Experience KSPs parts like you've never before.
 
-===============================================================================================
+============================================================================================
 
 Changelog:
 
 1.0 (8/12/25)
 - Initial release
-===============================================================================================
+============================================================================================
 
 The beginning: Why I started this project
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ This prevents there from being 5 or more versions of the same part, each with on
 
 *Some exceptions apply
 
-=================================================================================================================================================
+============================================================================================
 
 
 The Big Question: How much of this is legal, and what parts from which KSP versions are included?
@@ -61,7 +61,7 @@ The Alpha versions included are:
 
 I'm *pretty* sure these versions are all legally "free", so distributing the parts assets won't be breaking (too) many laws...
 
-=================================================================================================================================================
+============================================================================================
 
 The next few versions required a bit more knowledge on how to acquire them legally. By using the Steam console (steam://open/console), enter "download_depot 220200 220201 "
 Then, enter one of the number strings found at https://steamdb.info/depot/220201/manifests/, and you can download versions as far back as 0.19 (when KSP was first added to Steam)
@@ -76,7 +76,7 @@ The Steam Depot versions included are:
 1.0.2
 1.0.4
 
-=================================================================================================================================================
+============================================================================================
 
 Lastly, the following full-release versions are officially available from Steam by using the 'Beta Participation' feature in the properties menu.
 
@@ -98,7 +98,7 @@ The Full-Release versions included are:
 If you don't see a version, then it's because there were no parts revamped in the version *following* it.
 For example, no parts were revamped in KSP 1.3 "Away with words", so there's no need to include any parts from update 1.2 "Loud and clear"
 
-=================================================================================================================================================
+============================================================================================
 
 
 Organization: What's different from OldPartsRedux/KHI?
@@ -118,7 +118,7 @@ Instead of:	 LV-T30 "Reliant" (0.18)	[the version where the model was first adde
 This is different from OldPartsRedux, which only grabbed parts from arbitrary/nonspecific versions. It also retains the parts original name, unlike KHI.
 This helps preserve officially-made stat changes made by developers and helps keep parts as up-to-date as possible, at least until they were revamped/replaced.
 
-=================================================================================================================================================
+============================================================================================
 
 
 Using and un-hiding Stock parts:
@@ -148,7 +148,7 @@ If you don't want to re-hide these parts as well as other parts added by this mo
 The patch will set them to 'hidden', but they can still be used for making ships (you'd have to go in the Advanced view to find them)
 
 
-=================================================================================================================================================
+============================================================================================
 
 VABOrganizer: What's included?
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -158,7 +158,7 @@ Each versions parts included have their own dedicated VABOrganizer subcategory. 
 Every category has a priority of 999, so it *should* always be at the bottom of the part list. This won't conflict with any other mods that also add VABOrganizer subcategories.
 A good way to view all categories is clicking in the search bar, and scrolling alllllll the way down. FilterExtensions also works great too!
 
-=================================================================================================================================================
+============================================================================================
 
 
 Compatibility:
@@ -193,7 +193,7 @@ Highly Recommended Mods:
 
 
 Known Issues:
-=================================================================================================================================================
+============================================================================================
 
 Here's some of the bugs I know about, and currently have ABSOLUTELY NO CLUE on how to fix. Feel free to DM me if you have ideas!
 
@@ -207,7 +207,7 @@ Here's some of the bugs I know about, and currently have ABSOLUTELY NO CLUE on h
 
 (Emphasis on the NO CLUE part - I really tried everything I knew and couldn't fix these problems!)
 
-=================================================================================================================================================
+============================================================================================
 
 Assets used:
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -235,10 +235,10 @@ All parts from 0.12/Earlier
 All parts from 0.15
 Most parts from 0.17. If a part has a folder called 'OldFiles' in it's part directory, then that part's model was taken from KHI.
 
-=================================================================================================================================================
+============================================================================================
 
 Credits and Thanks:
-=================================================================================================================================================
+============================================================================================
 
 - @TriggeredSnake, for making the original OldPartsRedux mod.
 - @blspblackdeath, for making the Kerbal Historical Institute mod and for providing models for pre-0.18 parts

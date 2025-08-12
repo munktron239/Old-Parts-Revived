@@ -1,0 +1,15 @@
+Parts from 1.6.1
+
+linearRcs
+microEngine
+radialEngineMini
+omsEngine
+RCSBlock
+vernierEngine
+
+(Copied from Squad/zDeprecated/Parts)
+
+smallRadialEngine
+rocketNoseCone_v2
+
+(Already exist in-game, so they are un-hidden by this mod instead of adding their models)

@@ -110,6 +110,7 @@ I ultimately decided to go with the latter option, as this makes the most sense 
 
 
 For example, the LV-T30 "Reliant" engine (from before 1.12.2) title would be:
+
 changed to:	 LV-T30 "Reliant" (1.12.1)	[the version right before it got revamped]
 
 Instead of:	 LV-T30 "Reliant" (0.18)	[the version where the model was first added]
